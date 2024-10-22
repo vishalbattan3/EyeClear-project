@@ -1,0 +1,40 @@
+Prescription ID: 1
+First Name: Alice
+Last Name: Smith
+Address: 123 Main Street, Suburb, 12345, Australia
+Sphere: 2.5
+Cylinder: -1.75
+Axis: 90.0
+Examination Date: 22/10/24
+Optometrist: Dr. Johnson
+
+Prescription ID: 1
+First Name: Alice
+Last Name: Smith
+Address: 123 Main Street, Suburb, 12345, Australia
+Sphere: 2.5
+Cylinder: -1.75
+Axis: 90.0
+Examination Date: 22/10/24
+Optometrist: Dr. Johnson
+
+Prescription ID: 1
+First Name: Alice
+Last Name: Smith
+Address: 123 Main Street, Suburb, 12345, Australia
+Sphere: 2.5
+Cylinder: -1.75
+Axis: 90.0
+Examination Date: 22/10/24
+Optometrist: Dr. Johnson
+
+Prescription ID: 1
+First Name: Alice
+Last Name: Smith
+Address: 123 Main Street, Suburb, 12345, Australia
+Sphere: 2.5
+Cylinder: -1.75
+Axis: 90.0
+Examination Date: 22/10/24
+Optometrist: Dr. Johnson
+
